@@ -3,7 +3,7 @@
 - ⚡ Eu estou atualmente trabalhando no desenvolvimento de uma base de dados, que integre todas as informações necessárias para obter os melhores insghts para o setor elétrico brasileiro.
 - 🌱 Eu estou estudando as melhores formas de captura, armazenamento e tratamento de dados para consolidar os dados do mais relevantes do setor elétrico brasileiro em um único lugar.
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/carvalhalbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carvalhalbr&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhalbr&layout=compact&langs_count=7&count_private=true&theme=light"/>
